@@ -4,7 +4,7 @@
 
 [![cfpwastaken's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfpwastaken&show_icons=true&theme=dark)](https://github.com/cfpwastaken)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfpwastaken&layout=compact)](https://github.com/cfpwastaken)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfpwastaken&layout=compact&theme=dark)](https://github.com/cfpwastaken)
 
 ## My active project
 
