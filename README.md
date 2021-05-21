@@ -6,9 +6,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfpwastaken&layout=compact&theme=dark)](https://github.com/cfpwastaken)
 
-## My active project
+## Active Projects
 
 [![Active Project](https://github-readme-stats.vercel.app/api/pin/?username=creelonestudios&repo=customdiscord&theme=dark)](https://github.com/creelonestudios/customdiscord)
+[![Active Project](https://github-readme-stats.vercel.app/api/pin/?username=cfpwastaken&repo=pm&theme=dark)](https://github.com/cfpwastaken/pm)
+[![Active Project](https://github-readme-stats.vercel.app/api/pin/?username=cfpwastaken&repo=cfpcss&theme=dark)](https://github.com/cfpwastaken/cfpcss)
 
 <!--
 **cfpwastaken/cfpwastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
