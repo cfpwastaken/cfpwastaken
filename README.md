@@ -28,6 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#5](https://github.com/loumadev/EdupageAPI/issues/5) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+2. 🗣 Commented on [#5](https://github.com/loumadev/EdupageAPI/issues/5) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+3. 🗣 Commented on [#5](https://github.com/loumadev/EdupageAPI/issues/5) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+4. 🗣 Commented on [#5](https://github.com/loumadev/EdupageAPI/issues/5) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+5. 🗣 Commented on [#5](https://github.com/loumadev/EdupageAPI/issues/5) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
 <!--END_SECTION:activity-->
 </details>
 
