@@ -28,10 +28,10 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#74](https://github.com/SanjaySunil/BetterDiscordPanel/issues/74) in [SanjaySunil/BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel)
-2. ❗️ Opened issue [#11](https://github.com/balena-io-playground/node-sense-hat/issues/11) in [balena-io-playground/node-sense-hat](https://github.com/balena-io-playground/node-sense-hat)
-3. 🗣 Commented on [#1](https://github.com/egold555/PVPClientHTTPServer/issues/1) in [egold555/PVPClientHTTPServer](https://github.com/egold555/PVPClientHTTPServer)
-4. 🗣 Commented on [#5](https://github.com/loumadev/EdupageAPI/issues/5) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+1. 💪 Opened PR [#2](https://github.com/tholman/puginarug/pull/2) in [tholman/puginarug](https://github.com/tholman/puginarug)
+2. ❗️ Opened issue [#74](https://github.com/SanjaySunil/BetterDiscordPanel/issues/74) in [SanjaySunil/BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel)
+3. ❗️ Opened issue [#11](https://github.com/balena-io-playground/node-sense-hat/issues/11) in [balena-io-playground/node-sense-hat](https://github.com/balena-io-playground/node-sense-hat)
+4. 🗣 Commented on [#1](https://github.com/egold555/PVPClientHTTPServer/issues/1) in [egold555/PVPClientHTTPServer](https://github.com/egold555/PVPClientHTTPServer)
 5. 🗣 Commented on [#5](https://github.com/loumadev/EdupageAPI/issues/5) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
 <!--END_SECTION:activity-->
 </details>
