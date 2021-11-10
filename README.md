@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6773](https://github.com/files-community/Files/issues/6773) in [files-community/Files](https://github.com/files-community/Files)
-2. ❗️ Opened issue [#8](https://github.com/microsoft/uf2-linux/issues/8) in [microsoft/uf2-linux](https://github.com/microsoft/uf2-linux)
-3. ❗️ Opened issue [#6773](https://github.com/files-community/Files/issues/6773) in [files-community/Files](https://github.com/files-community/Files)
-4. 💪 Opened PR [#2](https://github.com/tholman/puginarug/pull/2) in [tholman/puginarug](https://github.com/tholman/puginarug)
-5. ❗️ Opened issue [#74](https://github.com/SanjaySunil/BetterDiscordPanel/issues/74) in [SanjaySunil/BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel)
+1. 🗣 Commented on [#8](https://github.com/microsoft/uf2-linux/issues/8) in [microsoft/uf2-linux](https://github.com/microsoft/uf2-linux)
+2. ❗️ Closed issue [#8](https://github.com/microsoft/uf2-linux/issues/8) in [microsoft/uf2-linux](https://github.com/microsoft/uf2-linux)
+3. 🗣 Commented on [#6773](https://github.com/files-community/Files/issues/6773) in [files-community/Files](https://github.com/files-community/Files)
+4. ❗️ Opened issue [#8](https://github.com/microsoft/uf2-linux/issues/8) in [microsoft/uf2-linux](https://github.com/microsoft/uf2-linux)
+5. ❗️ Opened issue [#6773](https://github.com/files-community/Files/issues/6773) in [files-community/Files](https://github.com/files-community/Files)
 <!--END_SECTION:activity-->
 </details>
 
