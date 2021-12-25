@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/jamesgeorge007/github-activity-readme/issues/61) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#8](https://github.com/microsoft/uf2-linux/issues/8) in [microsoft/uf2-linux](https://github.com/microsoft/uf2-linux)
-3. ❗️ Closed issue [#8](https://github.com/microsoft/uf2-linux/issues/8) in [microsoft/uf2-linux](https://github.com/microsoft/uf2-linux)
-4. 🗣 Commented on [#6773](https://github.com/files-community/Files/issues/6773) in [files-community/Files](https://github.com/files-community/Files)
-5. ❗️ Opened issue [#8](https://github.com/microsoft/uf2-linux/issues/8) in [microsoft/uf2-linux](https://github.com/microsoft/uf2-linux)
+1. ❗️ Opened issue [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
+2. 🗣 Commented on [#61](https://github.com/jamesgeorge007/github-activity-readme/issues/61) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#8](https://github.com/microsoft/uf2-linux/issues/8) in [microsoft/uf2-linux](https://github.com/microsoft/uf2-linux)
+4. ❗️ Closed issue [#8](https://github.com/microsoft/uf2-linux/issues/8) in [microsoft/uf2-linux](https://github.com/microsoft/uf2-linux)
+5. 🗣 Commented on [#6773](https://github.com/files-community/Files/issues/6773) in [files-community/Files](https://github.com/files-community/Files)
 <!--END_SECTION:activity-->
 </details>
 
