@@ -29,8 +29,8 @@
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
-2. ❗️ Opened issue [#35](https://github.com/Vegz78/McAirpos/issues/35) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
-3. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
+2. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
+3. ❗️ Opened issue [#35](https://github.com/Vegz78/McAirpos/issues/35) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
 4. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
 5. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
 <!--END_SECTION:activity-->
