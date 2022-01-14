@@ -28,10 +28,10 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/cfpwastaken/versionRead/pull/1) in [cfpwastaken/versionRead](https://github.com/cfpwastaken/versionRead)
-2. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
-3. 🗣 Commented on [#76](https://github.com/boppreh/mouse/issues/76) in [boppreh/mouse](https://github.com/boppreh/mouse)
-4. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
+1. ❌ Closed PR [#3](https://github.com/cfpwastaken/serversystem-old/pull/3) in [cfpwastaken/serversystem-old](https://github.com/cfpwastaken/serversystem-old)
+2. 🎉 Merged PR [#1](https://github.com/cfpwastaken/versionRead/pull/1) in [cfpwastaken/versionRead](https://github.com/cfpwastaken/versionRead)
+3. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
+4. 🗣 Commented on [#76](https://github.com/boppreh/mouse/issues/76) in [boppreh/mouse](https://github.com/boppreh/mouse)
 5. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
 <!--END_SECTION:activity-->
 </details>
