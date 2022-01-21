@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-2. ❌ Closed PR [#3](https://github.com/cfpwastaken/serversystem-old/pull/3) in [cfpwastaken/serversystem-old](https://github.com/cfpwastaken/serversystem-old)
-3. 🎉 Merged PR [#1](https://github.com/cfpwastaken/versionRead/pull/1) in [cfpwastaken/versionRead](https://github.com/cfpwastaken/versionRead)
-4. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
-5. 🗣 Commented on [#76](https://github.com/boppreh/mouse/issues/76) in [boppreh/mouse](https://github.com/boppreh/mouse)
+1. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+2. ❗️ Opened issue [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+3. ❌ Closed PR [#3](https://github.com/cfpwastaken/serversystem-old/pull/3) in [cfpwastaken/serversystem-old](https://github.com/cfpwastaken/serversystem-old)
+4. 🎉 Merged PR [#1](https://github.com/cfpwastaken/versionRead/pull/1) in [cfpwastaken/versionRead](https://github.com/cfpwastaken/versionRead)
+5. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
 <!--END_SECTION:activity-->
 </details>
 
