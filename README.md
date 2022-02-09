@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-2. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-3. ❗️ Opened issue [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-4. ❌ Closed PR [#3](https://github.com/cfpwastaken/serversystem-old/pull/3) in [cfpwastaken/serversystem-old](https://github.com/cfpwastaken/serversystem-old)
-5. 🎉 Merged PR [#1](https://github.com/cfpwastaken/versionRead/pull/1) in [cfpwastaken/versionRead](https://github.com/cfpwastaken/versionRead)
+1. 🎉 Merged PR [#3](https://github.com/cfpwastaken/serversystem/pull/3) in [cfpwastaken/serversystem](https://github.com/cfpwastaken/serversystem)
+2. ❌ Closed PR [#2](https://github.com/cfpwastaken/serversystem/pull/2) in [cfpwastaken/serversystem](https://github.com/cfpwastaken/serversystem)
+3. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+4. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+5. ❗️ Opened issue [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
 <!--END_SECTION:activity-->
 </details>
 
