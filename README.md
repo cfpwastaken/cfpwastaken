@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/cfpwastaken/serversystem/pull/4) in [cfpwastaken/serversystem](https://github.com/cfpwastaken/serversystem)
-2. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-3. 🗣 Commented on [#1](https://github.com/artivis/rpipress-downloader/issues/1) in [artivis/rpipress-downloader](https://github.com/artivis/rpipress-downloader)
-4. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-5. 🗣 Commented on [#9](https://github.com/loumadev/EdupageAPI/issues/9) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+1. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+2. ❗️ Closed issue [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+3. ❗️ Opened issue [#16](https://github.com/loumadev/EdupageAPI/issues/16) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+4. 🎉 Merged PR [#4](https://github.com/cfpwastaken/serversystem/pull/4) in [cfpwastaken/serversystem](https://github.com/cfpwastaken/serversystem)
+5. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
 <!--END_SECTION:activity-->
 </details>
 
