@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+1. ❗️ Opened issue [#97](https://github.com/vinceliuice/Fluent-gtk-theme/issues/97) in [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
 2. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-3. ❗️ Reopened issue [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-4. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-5. ❗️ Opened issue [#9](https://github.com/microsoft/uf2-linux/issues/9) in [microsoft/uf2-linux](https://github.com/microsoft/uf2-linux)
+3. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+4. ❗️ Reopened issue [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+5. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
 <!--END_SECTION:activity-->
 </details>
 
