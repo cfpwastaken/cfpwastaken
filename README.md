@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#97](https://github.com/vinceliuice/Fluent-gtk-theme/issues/97) in [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
-2. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-3. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-4. ❗️ Reopened issue [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-5. 🗣 Commented on [#13](https://github.com/loumadev/EdupageAPI/issues/13) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+1. ❗️ Closed issue [#97](https://github.com/vinceliuice/Fluent-gtk-theme/issues/97) in [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
+2. 🗣 Commented on [#97](https://github.com/vinceliuice/Fluent-gtk-theme/issues/97) in [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
+3. 🗣 Commented on [#97](https://github.com/vinceliuice/Fluent-gtk-theme/issues/97) in [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
+4. 🗣 Commented on [#97](https://github.com/vinceliuice/Fluent-gtk-theme/issues/97) in [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
+5. ❗️ Opened issue [#97](https://github.com/vinceliuice/Fluent-gtk-theme/issues/97) in [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
 <!--END_SECTION:activity-->
 </details>
 
