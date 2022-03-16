@@ -28,9 +28,9 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/cfpwastaken/edupageAddons/issues/1) in [cfpwastaken/edupageAddons](https://github.com/cfpwastaken/edupageAddons)
-2. ❗️ Closed issue [#97](https://github.com/vinceliuice/Fluent-gtk-theme/issues/97) in [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
-3. 🗣 Commented on [#97](https://github.com/vinceliuice/Fluent-gtk-theme/issues/97) in [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
+1. 🗣 Commented on [#301](https://github.com/Fmstrat/winapps/issues/301) in [Fmstrat/winapps](https://github.com/Fmstrat/winapps)
+2. 🗣 Commented on [#1](https://github.com/cfpwastaken/edupageAddons/issues/1) in [cfpwastaken/edupageAddons](https://github.com/cfpwastaken/edupageAddons)
+3. ❗️ Closed issue [#97](https://github.com/vinceliuice/Fluent-gtk-theme/issues/97) in [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
 4. 🗣 Commented on [#97](https://github.com/vinceliuice/Fluent-gtk-theme/issues/97) in [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
 5. 🗣 Commented on [#97](https://github.com/vinceliuice/Fluent-gtk-theme/issues/97) in [vinceliuice/Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme)
 <!--END_SECTION:activity-->
