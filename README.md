@@ -29,10 +29,10 @@
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/loumadev/EdupageAPI/issues/16) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-2. 🗣 Commented on [#24](https://github.com/DiscordStyles/Fluent/issues/24) in [DiscordStyles/Fluent](https://github.com/DiscordStyles/Fluent)
-3. 🗣 Commented on [#29](https://github.com/DiscordStyles/Fluent/issues/29) in [DiscordStyles/Fluent](https://github.com/DiscordStyles/Fluent)
-4. ❗️ Closed issue [#29](https://github.com/DiscordStyles/Fluent/issues/29) in [DiscordStyles/Fluent](https://github.com/DiscordStyles/Fluent)
-5. ❗️ Opened issue [#29](https://github.com/DiscordStyles/Fluent/issues/29) in [DiscordStyles/Fluent](https://github.com/DiscordStyles/Fluent)
+2. 🗣 Commented on [#16](https://github.com/loumadev/EdupageAPI/issues/16) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+3. 🗣 Commented on [#24](https://github.com/DiscordStyles/Fluent/issues/24) in [DiscordStyles/Fluent](https://github.com/DiscordStyles/Fluent)
+4. 🗣 Commented on [#29](https://github.com/DiscordStyles/Fluent/issues/29) in [DiscordStyles/Fluent](https://github.com/DiscordStyles/Fluent)
+5. ❗️ Closed issue [#29](https://github.com/DiscordStyles/Fluent/issues/29) in [DiscordStyles/Fluent](https://github.com/DiscordStyles/Fluent)
 <!--END_SECTION:activity-->
 </details>
 
