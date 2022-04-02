@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1487](https://github.com/mwittrien/BetterDiscordAddons/issues/1487) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
-2. 🗣 Commented on [#16](https://github.com/loumadev/EdupageAPI/issues/16) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+1. 🎉 Merged PR [#1](https://github.com/cfpwastaken/cowscript/pull/1) in [cfpwastaken/cowscript](https://github.com/cfpwastaken/cowscript)
+2. ❗️ Opened issue [#1487](https://github.com/mwittrien/BetterDiscordAddons/issues/1487) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
 3. 🗣 Commented on [#16](https://github.com/loumadev/EdupageAPI/issues/16) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-4. 🗣 Commented on [#24](https://github.com/DiscordStyles/Fluent/issues/24) in [DiscordStyles/Fluent](https://github.com/DiscordStyles/Fluent)
-5. 🗣 Commented on [#29](https://github.com/DiscordStyles/Fluent/issues/29) in [DiscordStyles/Fluent](https://github.com/DiscordStyles/Fluent)
+4. 🗣 Commented on [#16](https://github.com/loumadev/EdupageAPI/issues/16) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+5. 🗣 Commented on [#24](https://github.com/DiscordStyles/Fluent/issues/24) in [DiscordStyles/Fluent](https://github.com/DiscordStyles/Fluent)
 <!--END_SECTION:activity-->
 </details>
 
