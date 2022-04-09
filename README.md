@@ -28,10 +28,10 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/cfpwastaken/serversystem/pull/5) in [cfpwastaken/serversystem](https://github.com/cfpwastaken/serversystem)
-2. 🎉 Merged PR [#1](https://github.com/cfpwastaken/cowscript/pull/1) in [cfpwastaken/cowscript](https://github.com/cfpwastaken/cowscript)
-3. ❗️ Opened issue [#1487](https://github.com/mwittrien/BetterDiscordAddons/issues/1487) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
-4. 🗣 Commented on [#16](https://github.com/loumadev/EdupageAPI/issues/16) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+1. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
+2. 🎉 Merged PR [#5](https://github.com/cfpwastaken/serversystem/pull/5) in [cfpwastaken/serversystem](https://github.com/cfpwastaken/serversystem)
+3. 🎉 Merged PR [#1](https://github.com/cfpwastaken/cowscript/pull/1) in [cfpwastaken/cowscript](https://github.com/cfpwastaken/cowscript)
+4. ❗️ Opened issue [#1487](https://github.com/mwittrien/BetterDiscordAddons/issues/1487) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
 5. 🗣 Commented on [#16](https://github.com/loumadev/EdupageAPI/issues/16) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
 <!--END_SECTION:activity-->
 </details>
