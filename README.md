@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
+1. ❗️ Opened issue [#57](https://github.com/ckissane/blur-me/issues/57) in [ckissane/blur-me](https://github.com/ckissane/blur-me)
 2. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
 3. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
-4. 🎉 Merged PR [#5](https://github.com/cfpwastaken/serversystem/pull/5) in [cfpwastaken/serversystem](https://github.com/cfpwastaken/serversystem)
-5. 🎉 Merged PR [#1](https://github.com/cfpwastaken/cowscript/pull/1) in [cfpwastaken/cowscript](https://github.com/cfpwastaken/cowscript)
+4. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
+5. 🎉 Merged PR [#5](https://github.com/cfpwastaken/serversystem/pull/5) in [cfpwastaken/serversystem](https://github.com/cfpwastaken/serversystem)
 <!--END_SECTION:activity-->
 </details>
 
