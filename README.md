@@ -29,10 +29,10 @@
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/creelonestudios/songguesser/issues/1) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-2. 🎉 Merged PR [#2](https://github.com/creelonestudios/songguesser/pull/2) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-3. 💪 Opened PR [#1](https://github.com/creelonestudios/songguesser/pull/1) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-4. 🎉 Merged PR [#6](https://github.com/cfpwastaken/serversystem/pull/6) in [cfpwastaken/serversystem](https://github.com/cfpwastaken/serversystem)
-5. ❗️ Opened issue [#57](https://github.com/ckissane/blur-me/issues/57) in [ckissane/blur-me](https://github.com/ckissane/blur-me)
+2. 🗣 Commented on [#1](https://github.com/creelonestudios/songguesser/issues/1) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+3. 🎉 Merged PR [#2](https://github.com/creelonestudios/songguesser/pull/2) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+4. 💪 Opened PR [#1](https://github.com/creelonestudios/songguesser/pull/1) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+5. 🎉 Merged PR [#6](https://github.com/cfpwastaken/serversystem/pull/6) in [cfpwastaken/serversystem](https://github.com/cfpwastaken/serversystem)
 <!--END_SECTION:activity-->
 </details>
 
