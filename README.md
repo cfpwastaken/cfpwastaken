@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/creelonestudios/songguesser/issues/10) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-2. 🗣 Commented on [#9](https://github.com/creelonestudios/songguesser/issues/9) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-3. 🗣 Commented on [#5](https://github.com/creelonestudios/songguesser/issues/5) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-4. 🗣 Commented on [#8](https://github.com/creelonestudios/songguesser/issues/8) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-5. 💪 Opened PR [#8](https://github.com/creelonestudios/songguesser/pull/8) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+1. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
+2. 🗣 Commented on [#10](https://github.com/creelonestudios/songguesser/issues/10) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+3. 🗣 Commented on [#9](https://github.com/creelonestudios/songguesser/issues/9) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+4. 🗣 Commented on [#5](https://github.com/creelonestudios/songguesser/issues/5) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+5. 🗣 Commented on [#8](https://github.com/creelonestudios/songguesser/issues/8) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
 <!--END_SECTION:activity-->
 </details>
 
