@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20679](https://github.com/cocos2d/cocos2d-x/issues/20679) in [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
-2. 🗣 Commented on [#20679](https://github.com/cocos2d/cocos2d-x/issues/20679) in [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
-3. ❗️ Closed issue [#20679](https://github.com/cocos2d/cocos2d-x/issues/20679) in [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
-4. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
-5. 🗣 Commented on [#10](https://github.com/creelonestudios/songguesser/issues/10) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+1. ❗️ Opened issue [#19](https://github.com/loumadev/EdupageAPI/issues/19) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+2. ❗️ Closed issue [#20679](https://github.com/cocos2d/cocos2d-x/issues/20679) in [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
+3. 🗣 Commented on [#20679](https://github.com/cocos2d/cocos2d-x/issues/20679) in [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
+4. ❗️ Closed issue [#20679](https://github.com/cocos2d/cocos2d-x/issues/20679) in [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
+5. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
 <!--END_SECTION:activity-->
 </details>
 
