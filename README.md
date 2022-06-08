@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/loumadev/EdupageAPI/issues/19) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
-2. ❗️ Closed issue [#20679](https://github.com/cocos2d/cocos2d-x/issues/20679) in [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
-3. 🗣 Commented on [#20679](https://github.com/cocos2d/cocos2d-x/issues/20679) in [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
-4. ❗️ Closed issue [#20679](https://github.com/cocos2d/cocos2d-x/issues/20679) in [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
-5. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
+1. 💪 Opened PR [#14](https://github.com/creelonestudios/songguesser/pull/14) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+2. 💪 Opened PR [#13](https://github.com/creelonestudios/songguesser/pull/13) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+3. 💪 Opened PR [#12](https://github.com/creelonestudios/songguesser/pull/12) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+4. ❗️ Opened issue [#19](https://github.com/loumadev/EdupageAPI/issues/19) in [loumadev/EdupageAPI](https://github.com/loumadev/EdupageAPI)
+5. ❗️ Closed issue [#20679](https://github.com/cocos2d/cocos2d-x/issues/20679) in [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x)
 <!--END_SECTION:activity-->
 </details>
 
