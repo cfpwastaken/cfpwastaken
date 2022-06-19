@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/creelonestudios/songguesser/issues/23) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-2. 🗣 Commented on [#22](https://github.com/creelonestudios/songguesser/issues/22) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-3. 🎉 Merged PR [#24](https://github.com/creelonestudios/songguesser/pull/24) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-4. 💪 Opened PR [#24](https://github.com/creelonestudios/songguesser/pull/24) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-5. 🎉 Merged PR [#16](https://github.com/creelonestudios/songguesser/pull/16) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+1. 💪 Opened PR [#29](https://github.com/creelonestudios/songguesser/pull/29) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+2. 🗣 Commented on [#23](https://github.com/creelonestudios/songguesser/issues/23) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+3. 🗣 Commented on [#22](https://github.com/creelonestudios/songguesser/issues/22) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+4. 🎉 Merged PR [#24](https://github.com/creelonestudios/songguesser/pull/24) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+5. 💪 Opened PR [#24](https://github.com/creelonestudios/songguesser/pull/24) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
 <!--END_SECTION:activity-->
 </details>
 
