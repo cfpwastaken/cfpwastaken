@@ -28,9 +28,9 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/creelonestudios/songguesser/issues/33) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-2. ❗️ Opened issue [#407](https://github.com/ExcessiveAmountsOfZombies/Croptopia/issues/407) in [ExcessiveAmountsOfZombies/Croptopia](https://github.com/ExcessiveAmountsOfZombies/Croptopia)
-3. 🗣 Commented on [#33](https://github.com/creelonestudios/songguesser/issues/33) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+1. 🗣 Commented on [#30](https://github.com/creelonestudios/songguesser/issues/30) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+2. 🗣 Commented on [#33](https://github.com/creelonestudios/songguesser/issues/33) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+3. ❗️ Opened issue [#407](https://github.com/ExcessiveAmountsOfZombies/Croptopia/issues/407) in [ExcessiveAmountsOfZombies/Croptopia](https://github.com/ExcessiveAmountsOfZombies/Croptopia)
 4. 🗣 Commented on [#33](https://github.com/creelonestudios/songguesser/issues/33) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
 5. 🗣 Commented on [#33](https://github.com/creelonestudios/songguesser/issues/33) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
 <!--END_SECTION:activity-->
