@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/creelonestudios/songguesser/pull/39) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-2. 🎉 Merged PR [#32](https://github.com/creelonestudios/songguesser/pull/32) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-3. 💪 Opened PR [#3104](https://github.com/is-a-dev/register/pull/3104) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#457](https://github.com/raspberrypi/rpi-imager/issues/457) in [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager)
-5. ❗️ Opened issue [#457](https://github.com/raspberrypi/rpi-imager/issues/457) in [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager)
+1. 🗣 Commented on [#30](https://github.com/creelonestudios/songguesser/issues/30) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+2. 🗣 Commented on [#30](https://github.com/creelonestudios/songguesser/issues/30) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+3. 💪 Opened PR [#39](https://github.com/creelonestudios/songguesser/pull/39) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+4. 🎉 Merged PR [#32](https://github.com/creelonestudios/songguesser/pull/32) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+5. 💪 Opened PR [#3104](https://github.com/is-a-dev/register/pull/3104) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 </details>
 
