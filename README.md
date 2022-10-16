@@ -29,10 +29,10 @@
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3695](https://github.com/is-a-dev/register/issues/3695) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ❗️ Opened issue [#3695](https://github.com/is-a-dev/register/issues/3695) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 💪 Opened PR [#1](https://github.com/creelonestudios/eternalplace/pull/1) in [creelonestudios/eternalplace](https://github.com/creelonestudios/eternalplace)
-4. 🗣 Commented on [#41](https://github.com/creelonestudios/songguesser/issues/41) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-5. 💪 Opened PR [#40](https://github.com/creelonestudios/songguesser/pull/40) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+2. 🗣 Commented on [#3695](https://github.com/is-a-dev/register/issues/3695) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ❗️ Opened issue [#3695](https://github.com/is-a-dev/register/issues/3695) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 💪 Opened PR [#1](https://github.com/creelonestudios/eternalplace/pull/1) in [creelonestudios/eternalplace](https://github.com/creelonestudios/eternalplace)
+5. 🗣 Commented on [#41](https://github.com/creelonestudios/songguesser/issues/41) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
 <!--END_SECTION:activity-->
 </details>
 
