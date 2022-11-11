@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
-2. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
-3. 💪 Opened PR [#3758](https://github.com/is-a-dev/register/pull/3758) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 💪 Opened PR [#1](https://github.com/creelonestudios/tinymc/pull/1) in [creelonestudios/tinymc](https://github.com/creelonestudios/tinymc)
-5. 🗣 Commented on [#3695](https://github.com/is-a-dev/register/issues/3695) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🎉 Merged PR [#1](https://github.com/picoscratch/picoscratch-learn/pull/1) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+2. 💪 Opened PR [#1](https://github.com/picoscratch/picoscratch-learn/pull/1) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+3. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
+4. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
+5. 💪 Opened PR [#3758](https://github.com/is-a-dev/register/pull/3758) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 </details>
 
