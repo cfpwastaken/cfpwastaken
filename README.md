@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#407](https://github.com/ExcessiveAmountsOfZombies/Croptopia/issues/407) in [ExcessiveAmountsOfZombies/Croptopia](https://github.com/ExcessiveAmountsOfZombies/Croptopia)
-2. 💪 Opened PR [#2](https://github.com/picoscratch/picoscratch-learn/pull/2) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-3. 🎉 Merged PR [#1](https://github.com/picoscratch/picoscratch-learn/pull/1) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-4. 💪 Opened PR [#1](https://github.com/picoscratch/picoscratch-learn/pull/1) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-5. 🗣 Commented on [#34](https://github.com/Vegz78/McAirpos/issues/34) in [Vegz78/McAirpos](https://github.com/Vegz78/McAirpos)
+1. 🎉 Merged PR [#2](https://github.com/picoscratch/picoscratch-learn/pull/2) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+2. ❌ Reopened PR [#2](https://github.com/picoscratch/picoscratch-learn/pull/2) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+3. ❌ Closed PR [#2](https://github.com/picoscratch/picoscratch-learn/pull/2) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+4. 🗣 Commented on [#407](https://github.com/ExcessiveAmountsOfZombies/Croptopia/issues/407) in [ExcessiveAmountsOfZombies/Croptopia](https://github.com/ExcessiveAmountsOfZombies/Croptopia)
+5. 💪 Opened PR [#2](https://github.com/picoscratch/picoscratch-learn/pull/2) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
 <!--END_SECTION:activity-->
 </details>
 
