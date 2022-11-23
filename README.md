@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/picoscratch/picoscratch-learn/pull/3) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-2. 💪 Opened PR [#3](https://github.com/picoscratch/picoscratch-learn/pull/3) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-3. 🎉 Merged PR [#1](https://github.com/picoscratch/picoscratch-learn-blocks/pull/1) in [picoscratch/picoscratch-learn-blocks](https://github.com/picoscratch/picoscratch-learn-blocks)
-4. 💪 Opened PR [#1](https://github.com/picoscratch/picoscratch-learn-blocks/pull/1) in [picoscratch/picoscratch-learn-blocks](https://github.com/picoscratch/picoscratch-learn-blocks)
-5. 🎉 Merged PR [#2](https://github.com/picoscratch/picoscratch-learn/pull/2) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+1. 🎉 Merged PR [#4](https://github.com/picoscratch/picoscratch-learn/pull/4) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+2. 💪 Opened PR [#4](https://github.com/picoscratch/picoscratch-learn/pull/4) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+3. 🎉 Merged PR [#3](https://github.com/picoscratch/picoscratch-learn/pull/3) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+4. 💪 Opened PR [#3](https://github.com/picoscratch/picoscratch-learn/pull/3) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+5. 🎉 Merged PR [#1](https://github.com/picoscratch/picoscratch-learn-blocks/pull/1) in [picoscratch/picoscratch-learn-blocks](https://github.com/picoscratch/picoscratch-learn-blocks)
 <!--END_SECTION:activity-->
 </details>
 
