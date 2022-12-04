@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2908](https://github.com/LLK/scratch-blocks/issues/2908) in [LLK/scratch-blocks](https://github.com/LLK/scratch-blocks)
-2. 🎉 Merged PR [#9](https://github.com/picoscratch/picoscratch-learn/pull/9) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-3. 💪 Opened PR [#9](https://github.com/picoscratch/picoscratch-learn/pull/9) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-4. 🎉 Merged PR [#8](https://github.com/picoscratch/picoscratch-learn/pull/8) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-5. 💪 Opened PR [#8](https://github.com/picoscratch/picoscratch-learn/pull/8) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+1. 💪 Opened PR [#4104](https://github.com/is-a-dev/register/pull/4104) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ❗️ Opened issue [#2908](https://github.com/LLK/scratch-blocks/issues/2908) in [LLK/scratch-blocks](https://github.com/LLK/scratch-blocks)
+3. 🎉 Merged PR [#9](https://github.com/picoscratch/picoscratch-learn/pull/9) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+4. 💪 Opened PR [#9](https://github.com/picoscratch/picoscratch-learn/pull/9) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+5. 🎉 Merged PR [#8](https://github.com/picoscratch/picoscratch-learn/pull/8) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
 <!--END_SECTION:activity-->
 </details>
 
