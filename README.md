@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4104](https://github.com/is-a-dev/register/pull/4104) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🎉 Merged PR [#11](https://github.com/picoscratch/picoscratch-learn/pull/11) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-3. 💪 Opened PR [#11](https://github.com/picoscratch/picoscratch-learn/pull/11) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-4. 🎉 Merged PR [#10](https://github.com/picoscratch/picoscratch-learn/pull/10) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-5. 💪 Opened PR [#10](https://github.com/picoscratch/picoscratch-learn/pull/10) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+1. 🎉 Merged PR [#12](https://github.com/picoscratch/picoscratch-learn/pull/12) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+2. 💪 Opened PR [#12](https://github.com/picoscratch/picoscratch-learn/pull/12) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+3. ❌ Closed PR [#4104](https://github.com/is-a-dev/register/pull/4104) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🎉 Merged PR [#11](https://github.com/picoscratch/picoscratch-learn/pull/11) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+5. 💪 Opened PR [#11](https://github.com/picoscratch/picoscratch-learn/pull/11) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
 <!--END_SECTION:activity-->
 </details>
 
