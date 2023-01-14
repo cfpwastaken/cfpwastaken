@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#326](https://github.com/microsoft/clarity/issues/326) in [microsoft/clarity](https://github.com/microsoft/clarity)
-2. 🎉 Merged PR [#22](https://github.com/picoscratch/picoscratch-learn/pull/22) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-3. 💪 Opened PR [#22](https://github.com/picoscratch/picoscratch-learn/pull/22) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-4. 🎉 Merged PR [#21](https://github.com/picoscratch/picoscratch-learn/pull/21) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-5. 💪 Opened PR [#21](https://github.com/picoscratch/picoscratch-learn/pull/21) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+1. 🎉 Merged PR [#23](https://github.com/picoscratch/picoscratch-learn/pull/23) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+2. 💪 Opened PR [#23](https://github.com/picoscratch/picoscratch-learn/pull/23) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+3. ❗️ Opened issue [#326](https://github.com/microsoft/clarity/issues/326) in [microsoft/clarity](https://github.com/microsoft/clarity)
+4. 🎉 Merged PR [#22](https://github.com/picoscratch/picoscratch-learn/pull/22) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+5. 💪 Opened PR [#22](https://github.com/picoscratch/picoscratch-learn/pull/22) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
 <!--END_SECTION:activity-->
 </details>
 
