@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/coltongriffith/fluenticons/issues/5) in [coltongriffith/fluenticons](https://github.com/coltongriffith/fluenticons)
-2. 💪 Opened PR [#2](https://github.com/creelonestudios/Dismine/pull/2) in [creelonestudios/Dismine](https://github.com/creelonestudios/Dismine)
-3. 🗣 Commented on [#326](https://github.com/microsoft/clarity/issues/326) in [microsoft/clarity](https://github.com/microsoft/clarity)
-4. 🎉 Merged PR [#23](https://github.com/picoscratch/picoscratch-learn/pull/23) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
-5. 💪 Opened PR [#23](https://github.com/picoscratch/picoscratch-learn/pull/23) in [picoscratch/picoscratch-learn](https://github.com/picoscratch/picoscratch-learn)
+1. 🎉 Merged PR [#1](https://github.com/picoscratch/picoscratch-manager/pull/1) in [picoscratch/picoscratch-manager](https://github.com/picoscratch/picoscratch-manager)
+2. 💪 Opened PR [#1](https://github.com/picoscratch/picoscratch-manager/pull/1) in [picoscratch/picoscratch-manager](https://github.com/picoscratch/picoscratch-manager)
+3. 🗣 Commented on [#5](https://github.com/coltongriffith/fluenticons/issues/5) in [coltongriffith/fluenticons](https://github.com/coltongriffith/fluenticons)
+4. 💪 Opened PR [#2](https://github.com/creelonestudios/Dismine/pull/2) in [creelonestudios/Dismine](https://github.com/creelonestudios/Dismine)
+5. 🗣 Commented on [#326](https://github.com/microsoft/clarity/issues/326) in [microsoft/clarity](https://github.com/microsoft/clarity)
 <!--END_SECTION:activity-->
 </details>
 
