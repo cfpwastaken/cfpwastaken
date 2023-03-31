@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2042](https://github.com/itzg/docker-minecraft-server/issues/2042) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
-2. ❗️ Opened issue [#66](https://github.com/ckissane/blur-me/issues/66) in [ckissane/blur-me](https://github.com/ckissane/blur-me)
-3. 🎉 Merged PR [#1](https://github.com/picoscratch/picoscratch-manager/pull/1) in [picoscratch/picoscratch-manager](https://github.com/picoscratch/picoscratch-manager)
-4. 💪 Opened PR [#1](https://github.com/picoscratch/picoscratch-manager/pull/1) in [picoscratch/picoscratch-manager](https://github.com/picoscratch/picoscratch-manager)
-5. 🗣 Commented on [#5](https://github.com/coltongriffith/fluenticons/issues/5) in [coltongriffith/fluenticons](https://github.com/coltongriffith/fluenticons)
+1. ❗️ Opened issue [#7536](https://github.com/tensorflow/tfjs/issues/7536) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
+2. 🗣 Commented on [#2042](https://github.com/itzg/docker-minecraft-server/issues/2042) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+3. ❗️ Opened issue [#66](https://github.com/ckissane/blur-me/issues/66) in [ckissane/blur-me](https://github.com/ckissane/blur-me)
+4. 🎉 Merged PR [#1](https://github.com/picoscratch/picoscratch-manager/pull/1) in [picoscratch/picoscratch-manager](https://github.com/picoscratch/picoscratch-manager)
+5. 💪 Opened PR [#1](https://github.com/picoscratch/picoscratch-manager/pull/1) in [picoscratch/picoscratch-manager](https://github.com/picoscratch/picoscratch-manager)
 <!--END_SECTION:activity-->
 </details>
 
