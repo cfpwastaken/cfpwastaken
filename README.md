@@ -30,9 +30,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7536](https://github.com/tensorflow/tfjs/issues/7536) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
 2. 🗣 Commented on [#7536](https://github.com/tensorflow/tfjs/issues/7536) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
-3. ❗️ Opened issue [#7536](https://github.com/tensorflow/tfjs/issues/7536) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
-4. 🗣 Commented on [#2042](https://github.com/itzg/docker-minecraft-server/issues/2042) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
-5. ❗️ Opened issue [#66](https://github.com/ckissane/blur-me/issues/66) in [ckissane/blur-me](https://github.com/ckissane/blur-me)
+3. 🗣 Commented on [#7536](https://github.com/tensorflow/tfjs/issues/7536) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
+4. ❗️ Opened issue [#7536](https://github.com/tensorflow/tfjs/issues/7536) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
+5. 🗣 Commented on [#2042](https://github.com/itzg/docker-minecraft-server/issues/2042) in [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
 <!--END_SECTION:activity-->
 </details>
 
