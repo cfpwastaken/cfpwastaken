@@ -28,8 +28,8 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7544](https://github.com/tensorflow/tfjs/issues/7544) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
-2. 🗣 Commented on [#7536](https://github.com/tensorflow/tfjs/issues/7536) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
+1. 🗣 Commented on [#7536](https://github.com/tensorflow/tfjs/issues/7536) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
+2. ❗️ Opened issue [#7544](https://github.com/tensorflow/tfjs/issues/7544) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
 3. 🗣 Commented on [#7536](https://github.com/tensorflow/tfjs/issues/7536) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
 4. 🗣 Commented on [#7536](https://github.com/tensorflow/tfjs/issues/7536) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
 5. 🗣 Commented on [#7536](https://github.com/tensorflow/tfjs/issues/7536) in [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
