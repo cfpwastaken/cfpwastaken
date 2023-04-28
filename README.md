@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/creelonestudios/mailverse/issues/8) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-2. 🎉 Merged PR [#6](https://github.com/creelonestudios/mailverse/pull/6) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-3. 🗣 Commented on [#6](https://github.com/creelonestudios/mailverse/issues/6) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-4. 🗣 Commented on [#9](https://github.com/creelonestudios/mailverse/issues/9) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-5. 🗣 Commented on [#9](https://github.com/creelonestudios/mailverse/issues/9) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+1. 💪 Opened PR [#13](https://github.com/creelonestudios/mailverse/pull/13) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+2. 💪 Opened PR [#12](https://github.com/creelonestudios/mailverse/pull/12) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+3. 🗣 Commented on [#8](https://github.com/creelonestudios/mailverse/issues/8) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+4. 🎉 Merged PR [#6](https://github.com/creelonestudios/mailverse/pull/6) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+5. 🗣 Commented on [#6](https://github.com/creelonestudios/mailverse/issues/6) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
 <!--END_SECTION:activity-->
 </details>
 
