@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/polhenarejos/pico-fido/issues/9) in [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido)
-2. ❗️ Opened issue [#1376](https://github.com/nvbn/thefuck/issues/1376) in [nvbn/thefuck](https://github.com/nvbn/thefuck)
-3. 🗣 Commented on [#25](https://github.com/creelonestudios/mailverse/issues/25) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-4. 🗣 Commented on [#24](https://github.com/creelonestudios/mailverse/issues/24) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-5. 🎉 Merged PR [#15](https://github.com/creelonestudios/mailverse/pull/15) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+1. 🗣 Commented on [#23](https://github.com/creelonestudios/mailverse/issues/23) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+2. 🎉 Merged PR [#28](https://github.com/creelonestudios/mailverse/pull/28) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+3. ❗️ Opened issue [#9](https://github.com/polhenarejos/pico-fido/issues/9) in [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido)
+4. ❗️ Opened issue [#1376](https://github.com/nvbn/thefuck/issues/1376) in [nvbn/thefuck](https://github.com/nvbn/thefuck)
+5. 🗣 Commented on [#25](https://github.com/creelonestudios/mailverse/issues/25) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
 <!--END_SECTION:activity-->
 </details>
 
