@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1018](https://github.com/PaperMC/Velocity/issues/1018) in [PaperMC/Velocity](https://github.com/PaperMC/Velocity)
-2. 💪 Opened PR [#31](https://github.com/creelonestudios/mailverse/pull/31) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-3. 💪 Opened PR [#30](https://github.com/creelonestudios/mailverse/pull/30) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-4. 🎉 Merged PR [#23](https://github.com/creelonestudios/mailverse/pull/23) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-5. 🗣 Commented on [#23](https://github.com/creelonestudios/mailverse/issues/23) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+1. ❗ Opened issue [#5442](https://github.com/FreshRSS/FreshRSS/issues/5442) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+2. ❗ Opened issue [#1018](https://github.com/PaperMC/Velocity/issues/1018) in [PaperMC/Velocity](https://github.com/PaperMC/Velocity)
+3. 💪 Opened PR [#31](https://github.com/creelonestudios/mailverse/pull/31) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+4. 💪 Opened PR [#30](https://github.com/creelonestudios/mailverse/pull/30) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+5. 🎉 Merged PR [#23](https://github.com/creelonestudios/mailverse/pull/23) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
 <!--END_SECTION:activity-->
 </details>
 
