@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5442](https://github.com/FreshRSS/FreshRSS/issues/5442) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
-2. 🗣 Commented on [#5442](https://github.com/FreshRSS/FreshRSS/issues/5442) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+1. 🗣 Commented on [#2991](https://github.com/immich-app/immich/issues/2991) in [immich-app/immich](https://github.com/immich-app/immich)
+2. 🗣 Commented on [#2991](https://github.com/immich-app/immich/issues/2991) in [immich-app/immich](https://github.com/immich-app/immich)
 3. 🗣 Commented on [#5442](https://github.com/FreshRSS/FreshRSS/issues/5442) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
-4. ❗ Opened issue [#5442](https://github.com/FreshRSS/FreshRSS/issues/5442) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
-5. ❗ Opened issue [#1018](https://github.com/PaperMC/Velocity/issues/1018) in [PaperMC/Velocity](https://github.com/PaperMC/Velocity)
+4. 🗣 Commented on [#5442](https://github.com/FreshRSS/FreshRSS/issues/5442) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+5. 🗣 Commented on [#5442](https://github.com/FreshRSS/FreshRSS/issues/5442) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
 <!--END_SECTION:activity-->
 </details>
 
