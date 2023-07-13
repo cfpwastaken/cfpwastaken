@@ -28,11 +28,11 @@
 <details>
     <summary>GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6135](https://github.com/is-a-dev/register/pull/6135) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🗣 Commented on [#2991](https://github.com/immich-app/immich/issues/2991#issuecomment-1610091110) in [immich-app/immich](https://github.com/immich-app/immich)
-3. 🗣 Commented on [#2991](https://github.com/immich-app/immich/issues/2991#issuecomment-1610088462) in [immich-app/immich](https://github.com/immich-app/immich)
-4. 🗣 Commented on [#5442](https://github.com/FreshRSS/FreshRSS/issues/5442#issuecomment-1576029662) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
-5. 🗣 Commented on [#5442](https://github.com/FreshRSS/FreshRSS/issues/5442#issuecomment-1575672399) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+1. 🗣 Commented on [#3240](https://github.com/immich-app/immich/issues/3240#issuecomment-1634678549) in [immich-app/immich](https://github.com/immich-app/immich)
+2. ❗ Opened issue [#3240](https://github.com/immich-app/immich/issues/3240) in [immich-app/immich](https://github.com/immich-app/immich)
+3. ❗ Opened issue [#3239](https://github.com/immich-app/immich/issues/3239) in [immich-app/immich](https://github.com/immich-app/immich)
+4. 💪 Opened PR [#6135](https://github.com/is-a-dev/register/pull/6135) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#2991](https://github.com/immich-app/immich/issues/2991#issuecomment-1610091110) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
 </details>
 
