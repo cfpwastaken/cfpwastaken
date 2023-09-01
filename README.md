@@ -27,6 +27,8 @@
 
 <details>
     <summary>GitHub Activity</summary>
+
+    
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2991](https://github.com/immich-app/immich/issues/2991#issuecomment-1675923841) in [immich-app/immich](https://github.com/immich-app/immich)
 2. 🗣 Commented on [#3240](https://github.com/immich-app/immich/issues/3240#issuecomment-1634678549) in [immich-app/immich](https://github.com/immich-app/immich)
@@ -34,6 +36,8 @@
 4. ❗ Opened issue [#3239](https://github.com/immich-app/immich/issues/3239) in [immich-app/immich](https://github.com/immich-app/immich)
 5. 💪 Opened PR [#6135](https://github.com/is-a-dev/register/pull/6135) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
+
+
 </details>
 
 <!--
