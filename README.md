@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/picoscratch/docs/issues/1#issuecomment-2017668944) in [picoscratch/docs](https://github.com/picoscratch/docs)
-2. 🎉 Merged PR [#80](https://github.com/creelonestudios/mailverse/pull/80) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-3. 💪 Opened PR [#80](https://github.com/creelonestudios/mailverse/pull/80) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-4. 🎉 Merged PR [#66](https://github.com/creelonestudios/mailverse/pull/66) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-5. 🗣 Commented on [#66](https://github.com/creelonestudios/mailverse/pull/66#issuecomment-2002550097) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+1. ❗ Opened issue [#14404](https://github.com/micropython/micropython/issues/14404) in [micropython/micropython](https://github.com/micropython/micropython)
+2. 🗣 Commented on [#1](https://github.com/picoscratch/docs/issues/1#issuecomment-2017668944) in [picoscratch/docs](https://github.com/picoscratch/docs)
+3. 🎉 Merged PR [#80](https://github.com/creelonestudios/mailverse/pull/80) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+4. 💪 Opened PR [#80](https://github.com/creelonestudios/mailverse/pull/80) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+5. 🎉 Merged PR [#66](https://github.com/creelonestudios/mailverse/pull/66) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
 <!--END_SECTION:activity-->
 
 
