@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#308](https://github.com/Peppermint-Lab/peppermint/pull/308) in [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint)
-2. ❗ Opened issue [#14404](https://github.com/micropython/micropython/issues/14404) in [micropython/micropython](https://github.com/micropython/micropython)
-3. 🗣 Commented on [#1](https://github.com/picoscratch/docs/issues/1#issuecomment-2017668944) in [picoscratch/docs](https://github.com/picoscratch/docs)
-4. 🎉 Merged PR [#80](https://github.com/creelonestudios/mailverse/pull/80) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-5. 💪 Opened PR [#80](https://github.com/creelonestudios/mailverse/pull/80) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+1. ❗ Opened issue [#1704](https://github.com/modrinth/knossos/issues/1704) in [modrinth/knossos](https://github.com/modrinth/knossos)
+2. 💪 Opened PR [#308](https://github.com/Peppermint-Lab/peppermint/pull/308) in [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint)
+3. ❗ Opened issue [#14404](https://github.com/micropython/micropython/issues/14404) in [micropython/micropython](https://github.com/micropython/micropython)
+4. 🗣 Commented on [#1](https://github.com/picoscratch/docs/issues/1#issuecomment-2017668944) in [picoscratch/docs](https://github.com/picoscratch/docs)
+5. 🎉 Merged PR [#80](https://github.com/creelonestudios/mailverse/pull/80) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
 <!--END_SECTION:activity-->
 
 
