@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/cfpwastaken/create-cards/issues/1#issuecomment-2112788565) in [cfpwastaken/create-cards](https://github.com/cfpwastaken/create-cards)
-2. ❗ Opened issue [#10989](https://github.com/oven-sh/bun/issues/10989) in [oven-sh/bun](https://github.com/oven-sh/bun)
-3. ❗ Opened issue [#1704](https://github.com/modrinth/knossos/issues/1704) in [modrinth/knossos](https://github.com/modrinth/knossos)
-4. 💪 Opened PR [#308](https://github.com/Peppermint-Lab/peppermint/pull/308) in [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint)
-5. ❗ Opened issue [#14404](https://github.com/micropython/micropython/issues/14404) in [micropython/micropython](https://github.com/micropython/micropython)
+1. 🗣 Commented on [#2](https://github.com/cfpwastaken/create-cards/issues/2#issuecomment-2117517250) in [cfpwastaken/create-cards](https://github.com/cfpwastaken/create-cards)
+2. 🗣 Commented on [#1](https://github.com/cfpwastaken/create-cards/issues/1#issuecomment-2112788565) in [cfpwastaken/create-cards](https://github.com/cfpwastaken/create-cards)
+3. ❗ Opened issue [#10989](https://github.com/oven-sh/bun/issues/10989) in [oven-sh/bun](https://github.com/oven-sh/bun)
+4. ❗ Opened issue [#1704](https://github.com/modrinth/knossos/issues/1704) in [modrinth/knossos](https://github.com/modrinth/knossos)
+5. 💪 Opened PR [#308](https://github.com/Peppermint-Lab/peppermint/pull/308) in [Peppermint-Lab/peppermint](https://github.com/Peppermint-Lab/peppermint)
 <!--END_SECTION:activity-->
 
 
