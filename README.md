@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/creelonestudios/songguesser/pull/45) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-2. 🔒 Closed issue [#44](https://github.com/creelonestudios/songguesser/issues/44) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-3. ❗ Opened issue [#44](https://github.com/creelonestudios/songguesser/issues/44) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
-4. 🗣 Commented on [#10989](https://github.com/oven-sh/bun/issues/10989#issuecomment-2120658083) in [oven-sh/bun](https://github.com/oven-sh/bun)
-5. 🔒 Closed issue [#10989](https://github.com/oven-sh/bun/issues/10989) in [oven-sh/bun](https://github.com/oven-sh/bun)
+1. 🗣 Commented on [#5](https://github.com/cfpwastaken/create-cards/issues/5#issuecomment-2169203790) in [cfpwastaken/create-cards](https://github.com/cfpwastaken/create-cards)
+2. 🔒 Closed issue [#5](https://github.com/cfpwastaken/create-cards/issues/5) in [cfpwastaken/create-cards](https://github.com/cfpwastaken/create-cards)
+3. 💪 Opened PR [#45](https://github.com/creelonestudios/songguesser/pull/45) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+4. 🔒 Closed issue [#44](https://github.com/creelonestudios/songguesser/issues/44) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
+5. ❗ Opened issue [#44](https://github.com/creelonestudios/songguesser/issues/44) in [creelonestudios/songguesser](https://github.com/creelonestudios/songguesser)
 <!--END_SECTION:activity-->
 
 
