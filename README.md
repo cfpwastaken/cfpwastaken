@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1504](https://github.com/Fabricators-of-Create/Create/issues/1504#issuecomment-2188666969) in [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create)
-2. 🚀 Published release [v0.1-alpha](https://github.com/easyguard/easyguard-web/releases/tag/v0.1-alpha) in [easyguard/easyguard-web](https://github.com/easyguard/easyguard-web)
-3. 🚀 Published release [v0.1-alpha](https://github.com/easyguard/ezg-api/releases/tag/v0.1-alpha) in [easyguard/ezg-api](https://github.com/easyguard/ezg-api)
-4. 🗣 Commented on [#5](https://github.com/cfpwastaken/create-cards/issues/5#issuecomment-2169203790) in [cfpwastaken/create-cards](https://github.com/cfpwastaken/create-cards)
-5. 🔒 Closed issue [#5](https://github.com/cfpwastaken/create-cards/issues/5) in [cfpwastaken/create-cards](https://github.com/cfpwastaken/create-cards)
+1. 🗣 Commented on [#3](https://github.com/ghasto69/sandpaper_overhaul_fabric/pull/3#issuecomment-2189502836) in [ghasto69/sandpaper_overhaul_fabric](https://github.com/ghasto69/sandpaper_overhaul_fabric)
+2. 🗣 Commented on [#1504](https://github.com/Fabricators-of-Create/Create/issues/1504#issuecomment-2188666969) in [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create)
+3. 🚀 Published release [v0.1-alpha](https://github.com/easyguard/easyguard-web/releases/tag/v0.1-alpha) in [easyguard/easyguard-web](https://github.com/easyguard/easyguard-web)
+4. 🚀 Published release [v0.1-alpha](https://github.com/easyguard/ezg-api/releases/tag/v0.1-alpha) in [easyguard/ezg-api](https://github.com/easyguard/ezg-api)
+5. 🗣 Commented on [#5](https://github.com/cfpwastaken/create-cards/issues/5#issuecomment-2169203790) in [cfpwastaken/create-cards](https://github.com/cfpwastaken/create-cards)
 <!--END_SECTION:activity-->
 
 
