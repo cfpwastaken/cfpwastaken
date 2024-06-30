@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1504](https://github.com/Fabricators-of-Create/Create/issues/1504#issuecomment-2195418817) in [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create)
-2. 🗣 Commented on [#3](https://github.com/ghasto69/sandpaper_overhaul_fabric/pull/3#issuecomment-2189502836) in [ghasto69/sandpaper_overhaul_fabric](https://github.com/ghasto69/sandpaper_overhaul_fabric)
-3. 🗣 Commented on [#1504](https://github.com/Fabricators-of-Create/Create/issues/1504#issuecomment-2188666969) in [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create)
-4. 🚀 Published release [v0.1-alpha](https://github.com/easyguard/easyguard-web/releases/tag/v0.1-alpha) in [easyguard/easyguard-web](https://github.com/easyguard/easyguard-web)
-5. 🚀 Published release [v0.1-alpha](https://github.com/easyguard/ezg-api/releases/tag/v0.1-alpha) in [easyguard/ezg-api](https://github.com/easyguard/ezg-api)
+1. 🚀 Published release [v0.1.1](https://github.com/easyguard/easyguard-web/releases/tag/v0.1.1) in [easyguard/easyguard-web](https://github.com/easyguard/easyguard-web)
+2. 🚀 Published release [v0.1.1](https://github.com/easyguard/ezg-api/releases/tag/v0.1.1) in [easyguard/ezg-api](https://github.com/easyguard/ezg-api)
+3. 🗣 Commented on [#1504](https://github.com/Fabricators-of-Create/Create/issues/1504#issuecomment-2195418817) in [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create)
+4. 🗣 Commented on [#3](https://github.com/ghasto69/sandpaper_overhaul_fabric/pull/3#issuecomment-2189502836) in [ghasto69/sandpaper_overhaul_fabric](https://github.com/ghasto69/sandpaper_overhaul_fabric)
+5. 🗣 Commented on [#1504](https://github.com/Fabricators-of-Create/Create/issues/1504#issuecomment-2188666969) in [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create)
 <!--END_SECTION:activity-->
 
 
