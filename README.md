@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#176](https://github.com/weaviate/typescript-client/issues/176#issuecomment-2258479454) in [weaviate/typescript-client](https://github.com/weaviate/typescript-client)
-2. 🔒 Closed issue [#176](https://github.com/weaviate/typescript-client/issues/176) in [weaviate/typescript-client](https://github.com/weaviate/typescript-client)
-3. ❗ Opened issue [#176](https://github.com/weaviate/typescript-client/issues/176) in [weaviate/typescript-client](https://github.com/weaviate/typescript-client)
-4. 🗣 Commented on [#3](https://github.com/ghasto69/sandpaper_overhaul_fabric/pull/3#issuecomment-2231429057) in [ghasto69/sandpaper_overhaul_fabric](https://github.com/ghasto69/sandpaper_overhaul_fabric)
-5. 🚀 Published release [v0.1.1](https://github.com/easyguard/easyguard-web/releases/tag/v0.1.1) in [easyguard/easyguard-web](https://github.com/easyguard/easyguard-web)
+1. ❗ Opened issue [#1555](https://github.com/Fabricators-of-Create/Create/issues/1555) in [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create)
+2. 🗣 Commented on [#176](https://github.com/weaviate/typescript-client/issues/176#issuecomment-2258479454) in [weaviate/typescript-client](https://github.com/weaviate/typescript-client)
+3. 🔒 Closed issue [#176](https://github.com/weaviate/typescript-client/issues/176) in [weaviate/typescript-client](https://github.com/weaviate/typescript-client)
+4. ❗ Opened issue [#176](https://github.com/weaviate/typescript-client/issues/176) in [weaviate/typescript-client](https://github.com/weaviate/typescript-client)
+5. 🗣 Commented on [#3](https://github.com/ghasto69/sandpaper_overhaul_fabric/pull/3#issuecomment-2231429057) in [ghasto69/sandpaper_overhaul_fabric](https://github.com/ghasto69/sandpaper_overhaul_fabric)
 <!--END_SECTION:activity-->
 
 
