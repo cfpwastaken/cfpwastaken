@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/pinout-xyz/pico.pinout.xyz/issues/19#issuecomment-2278618066) in [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz)
-2. 💪 Opened PR [#3](https://github.com/pinout-xyz/pico2.pinout.xyz/pull/3) in [pinout-xyz/pico2.pinout.xyz](https://github.com/pinout-xyz/pico2.pinout.xyz)
-3. 🗣 Commented on [#19](https://github.com/pinout-xyz/pico.pinout.xyz/issues/19#issuecomment-2278607845) in [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz)
-4. 💪 Opened PR [#20](https://github.com/pinout-xyz/pico.pinout.xyz/pull/20) in [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz)
-5. 🗣 Commented on [#19](https://github.com/pinout-xyz/pico.pinout.xyz/issues/19#issuecomment-2278591335) in [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz)
+1. 💪 Opened PR [#1](https://github.com/pinout-xyz/picow.pinout.xyz/pull/1) in [pinout-xyz/picow.pinout.xyz](https://github.com/pinout-xyz/picow.pinout.xyz)
+2. 🗣 Commented on [#19](https://github.com/pinout-xyz/pico.pinout.xyz/issues/19#issuecomment-2278618066) in [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz)
+3. 💪 Opened PR [#3](https://github.com/pinout-xyz/pico2.pinout.xyz/pull/3) in [pinout-xyz/pico2.pinout.xyz](https://github.com/pinout-xyz/pico2.pinout.xyz)
+4. 🗣 Commented on [#19](https://github.com/pinout-xyz/pico.pinout.xyz/issues/19#issuecomment-2278607845) in [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz)
+5. 💪 Opened PR [#20](https://github.com/pinout-xyz/pico.pinout.xyz/pull/20) in [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz)
 <!--END_SECTION:activity-->
 
 
