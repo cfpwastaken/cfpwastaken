@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#515](https://github.com/Layers-of-Railways/Railway/issues/515) in [Layers-of-Railways/Railway](https://github.com/Layers-of-Railways/Railway)
-2. 🗣 Commented on [#4](https://github.com/PatrickJS/everyone-ssn-usa/pull/4#issuecomment-2294930578) in [PatrickJS/everyone-ssn-usa](https://github.com/PatrickJS/everyone-ssn-usa)
-3. 🗣 Commented on [#19](https://github.com/pinout-xyz/pico.pinout.xyz/issues/19#issuecomment-2282250755) in [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz)
-4. 🗣 Commented on [#19](https://github.com/pinout-xyz/pico.pinout.xyz/issues/19#issuecomment-2282250632) in [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz)
-5. 💪 Opened PR [#1](https://github.com/pinout-xyz/picow.pinout.xyz/pull/1) in [pinout-xyz/picow.pinout.xyz](https://github.com/pinout-xyz/picow.pinout.xyz)
+1. ❗ Opened issue [#1](https://github.com/cfpwastaken/status/issues/1) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
+2. ❗ Opened issue [#515](https://github.com/Layers-of-Railways/Railway/issues/515) in [Layers-of-Railways/Railway](https://github.com/Layers-of-Railways/Railway)
+3. 🗣 Commented on [#4](https://github.com/PatrickJS/everyone-ssn-usa/pull/4#issuecomment-2294930578) in [PatrickJS/everyone-ssn-usa](https://github.com/PatrickJS/everyone-ssn-usa)
+4. 🗣 Commented on [#19](https://github.com/pinout-xyz/pico.pinout.xyz/issues/19#issuecomment-2282250755) in [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz)
+5. 🗣 Commented on [#19](https://github.com/pinout-xyz/pico.pinout.xyz/issues/19#issuecomment-2282250632) in [pinout-xyz/pico.pinout.xyz](https://github.com/pinout-xyz/pico.pinout.xyz)
 <!--END_SECTION:activity-->
 
 
