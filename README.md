@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#29](https://github.com/vadis365/Animalium/issues/29) in [vadis365/Animalium](https://github.com/vadis365/Animalium)
-2. 🗣 Commented on [#1](https://github.com/picoscratch/upptime/issues/1#issuecomment-2351635444) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-3. 🔒 Closed issue [#1](https://github.com/picoscratch/upptime/issues/1) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-4. ❗ Opened issue [#1](https://github.com/picoscratch/upptime/issues/1) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-5. 🗣 Commented on [#3](https://github.com/cfpwastaken/status/issues/3#issuecomment-2351589868) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
+1. ❗ Opened issue [#6](https://github.com/picoscratch/upptime/issues/6) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+2. ❗ Opened issue [#5](https://github.com/picoscratch/upptime/issues/5) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+3. ❗ Opened issue [#4](https://github.com/picoscratch/upptime/issues/4) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+4. ❗ Opened issue [#3](https://github.com/picoscratch/upptime/issues/3) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+5. ❗ Opened issue [#2](https://github.com/picoscratch/upptime/issues/2) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
 <!--END_SECTION:activity-->
 
 
