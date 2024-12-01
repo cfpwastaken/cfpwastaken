@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16307](https://github.com/micropython/micropython/issues/16307#issuecomment-2509833131) in [micropython/micropython](https://github.com/micropython/micropython)
-2. ❗ Opened issue [#16307](https://github.com/micropython/micropython/issues/16307) in [micropython/micropython](https://github.com/micropython/micropython)
-3. 🗣 Commented on [#19](https://github.com/cfpwastaken/status/issues/19#issuecomment-2493409767) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
-4. 🔒 Closed issue [#19](https://github.com/cfpwastaken/status/issues/19) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
-5. 🗣 Commented on [#66](https://github.com/picoscratch/upptime/issues/66#issuecomment-2493401066) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+1. 🔒 Closed issue [#14404](https://github.com/micropython/micropython/issues/14404) in [micropython/micropython](https://github.com/micropython/micropython)
+2. 🔒 Closed issue [#14404](https://github.com/micropython/micropython/issues/14404) in [micropython/micropython](https://github.com/micropython/micropython)
+3. 🗣 Commented on [#16307](https://github.com/micropython/micropython/issues/16307#issuecomment-2509833131) in [micropython/micropython](https://github.com/micropython/micropython)
+4. ❗ Opened issue [#16307](https://github.com/micropython/micropython/issues/16307) in [micropython/micropython](https://github.com/micropython/micropython)
+5. 🗣 Commented on [#19](https://github.com/cfpwastaken/status/issues/19#issuecomment-2493409767) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
 <!--END_SECTION:activity-->
 
 
