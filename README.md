@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#20](https://github.com/cfpwastaken/status/issues/20) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
-2. 🗣 Commented on [#20](https://github.com/cfpwastaken/status/issues/20#issuecomment-2567241447) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
-3. ❗ Opened issue [#20](https://github.com/cfpwastaken/status/issues/20) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
-4. ❗ Opened issue [#16307](https://github.com/micropython/micropython/issues/16307) in [micropython/micropython](https://github.com/micropython/micropython)
-5. 🗣 Commented on [#19](https://github.com/cfpwastaken/status/issues/19#issuecomment-2493409767) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
+1. ❗ Opened issue [#21](https://github.com/cfpwastaken/status/issues/21) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
+2. ❗ Opened issue [#71](https://github.com/picoscratch/upptime/issues/71) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+3. ❗ Opened issue [#70](https://github.com/picoscratch/upptime/issues/70) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+4. ❗ Opened issue [#69](https://github.com/picoscratch/upptime/issues/69) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+5. ❗ Opened issue [#68](https://github.com/picoscratch/upptime/issues/68) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
 <!--END_SECTION:activity-->
 
 
