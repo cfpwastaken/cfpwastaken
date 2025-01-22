@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/cfpwastaken/create-cards/pull/7) in [cfpwastaken/create-cards](https://github.com/cfpwastaken/create-cards)
-2. 🗣 Commented on [#7](https://github.com/cfpwastaken/create-cards/pull/7#issuecomment-2598680261) in [cfpwastaken/create-cards](https://github.com/cfpwastaken/create-cards)
-3. 🗣 Commented on [#21](https://github.com/cfpwastaken/status/issues/21#issuecomment-2582063276) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
-4. 🔒 Closed issue [#21](https://github.com/cfpwastaken/status/issues/21) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
-5. 🔒 Closed issue [#71](https://github.com/picoscratch/upptime/issues/71) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+1. ❗ Opened issue [#73](https://github.com/picoscratch/upptime/issues/73) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+2. ❗ Opened issue [#72](https://github.com/picoscratch/upptime/issues/72) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+3. 🎉 Merged PR [#7](https://github.com/cfpwastaken/create-cards/pull/7) in [cfpwastaken/create-cards](https://github.com/cfpwastaken/create-cards)
+4. 🗣 Commented on [#7](https://github.com/cfpwastaken/create-cards/pull/7#issuecomment-2598680261) in [cfpwastaken/create-cards](https://github.com/cfpwastaken/create-cards)
+5. 🗣 Commented on [#21](https://github.com/cfpwastaken/status/issues/21#issuecomment-2582063276) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
 <!--END_SECTION:activity-->
 
 
