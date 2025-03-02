@@ -30,8 +30,8 @@
 
     
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#78](https://github.com/picoscratch/upptime/issues/78) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-2. 🗣 Commented on [#78](https://github.com/picoscratch/upptime/issues/78#issuecomment-2660677508) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+1. 🗣 Commented on [#8](https://github.com/cfpwastaken/create-cards/pull/8#issuecomment-2692883783) in [cfpwastaken/create-cards](https://github.com/cfpwastaken/create-cards)
+2. 🎉 Merged PR [#8](https://github.com/cfpwastaken/create-cards/pull/8) in [cfpwastaken/create-cards](https://github.com/cfpwastaken/create-cards)
 3. 🗣 Commented on [#77](https://github.com/picoscratch/upptime/issues/77#issuecomment-2660677497) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
 4. 🔒 Closed issue [#77](https://github.com/picoscratch/upptime/issues/77) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
 5. 🗣 Commented on [#76](https://github.com/picoscratch/upptime/issues/76#issuecomment-2660677485) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
