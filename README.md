@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#83](https://github.com/picoscratch/upptime/issues/83) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-2. ❗ Opened issue [#82](https://github.com/picoscratch/upptime/issues/82) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-3. ❗ Opened issue [#81](https://github.com/picoscratch/upptime/issues/81) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-4. ❗ Opened issue [#80](https://github.com/picoscratch/upptime/issues/80) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-5. ❗ Opened issue [#79](https://github.com/picoscratch/upptime/issues/79) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+1. 🗣 Commented on [#83](https://github.com/picoscratch/upptime/issues/83#issuecomment-2693167071) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+2. 🔒 Closed issue [#83](https://github.com/picoscratch/upptime/issues/83) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+3. 🗣 Commented on [#82](https://github.com/picoscratch/upptime/issues/82#issuecomment-2693167026) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+4. 🔒 Closed issue [#82](https://github.com/picoscratch/upptime/issues/82) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+5. 🗣 Commented on [#81](https://github.com/picoscratch/upptime/issues/81#issuecomment-2693166979) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
 <!--END_SECTION:activity-->
 
 
