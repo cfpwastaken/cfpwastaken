@@ -30,8 +30,8 @@
 
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/wiesty/MMM-Tankerkoenig/issues/3#issuecomment-2779473448) in [wiesty/MMM-Tankerkoenig](https://github.com/wiesty/MMM-Tankerkoenig)
-2. 🚀 Published release [v0.1.0](https://github.com/cfpwastaken/tss-cli/releases/tag/v0.1.0) in [cfpwastaken/tss-cli](https://github.com/cfpwastaken/tss-cli)
+1. 🎉 Merged PR [#2](https://github.com/cfpwastaken/is-is-is-is-is-is-odd/pull/2) in [cfpwastaken/is-is-is-is-is-is-odd](https://github.com/cfpwastaken/is-is-is-is-is-is-odd)
+2. 🗣 Commented on [#3](https://github.com/wiesty/MMM-Tankerkoenig/issues/3#issuecomment-2779473448) in [wiesty/MMM-Tankerkoenig](https://github.com/wiesty/MMM-Tankerkoenig)
 3. 🗣 Commented on [#1](https://github.com/pinout-xyz/picow.pinout.xyz/pull/1#issuecomment-2714638235) in [pinout-xyz/picow.pinout.xyz](https://github.com/pinout-xyz/picow.pinout.xyz)
 4. 🗣 Commented on [#24](https://github.com/cfpwastaken/status/issues/24#issuecomment-2712436759) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
 5. 🔒 Closed issue [#24](https://github.com/cfpwastaken/status/issues/24) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
