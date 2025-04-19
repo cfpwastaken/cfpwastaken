@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/j0code/threadlet/pull/1) in [j0code/threadlet](https://github.com/j0code/threadlet)
-2. 🗣 Commented on [#87](https://github.com/picoscratch/upptime/issues/87#issuecomment-2816653879) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-3. 🔒 Closed issue [#87](https://github.com/picoscratch/upptime/issues/87) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-4. 🗣 Commented on [#86](https://github.com/picoscratch/upptime/issues/86#issuecomment-2816653861) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-5. 🔒 Closed issue [#86](https://github.com/picoscratch/upptime/issues/86) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+1. 🗣 Commented on [#91](https://github.com/picoscratch/upptime/issues/91#issuecomment-2816873238) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+2. 🔒 Closed issue [#91](https://github.com/picoscratch/upptime/issues/91) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+3. 🗣 Commented on [#90](https://github.com/picoscratch/upptime/issues/90#issuecomment-2816873226) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+4. 🔒 Closed issue [#90](https://github.com/picoscratch/upptime/issues/90) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+5. 🗣 Commented on [#89](https://github.com/picoscratch/upptime/issues/89#issuecomment-2816873211) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
 <!--END_SECTION:activity-->
 
 
