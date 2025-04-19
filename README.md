@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/cfpwastaken/is-is-is-is-is-is-odd/issues/1) in [cfpwastaken/is-is-is-is-is-is-odd](https://github.com/cfpwastaken/is-is-is-is-is-is-odd)
-2. 🎉 Merged PR [#2](https://github.com/cfpwastaken/is-is-is-is-is-is-odd/pull/2) in [cfpwastaken/is-is-is-is-is-is-odd](https://github.com/cfpwastaken/is-is-is-is-is-is-odd)
-3. 🗣 Commented on [#3](https://github.com/wiesty/MMM-Tankerkoenig/issues/3#issuecomment-2779473448) in [wiesty/MMM-Tankerkoenig](https://github.com/wiesty/MMM-Tankerkoenig)
-4. 🗣 Commented on [#24](https://github.com/cfpwastaken/status/issues/24#issuecomment-2712436759) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
-5. 🔒 Closed issue [#24](https://github.com/cfpwastaken/status/issues/24) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
+1. ❗ Opened issue [#87](https://github.com/picoscratch/upptime/issues/87) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+2. ❗ Opened issue [#86](https://github.com/picoscratch/upptime/issues/86) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+3. ❗ Opened issue [#85](https://github.com/picoscratch/upptime/issues/85) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+4. 🔒 Closed issue [#1](https://github.com/cfpwastaken/is-is-is-is-is-is-odd/issues/1) in [cfpwastaken/is-is-is-is-is-is-odd](https://github.com/cfpwastaken/is-is-is-is-is-is-odd)
+5. 🎉 Merged PR [#2](https://github.com/cfpwastaken/is-is-is-is-is-is-odd/pull/2) in [cfpwastaken/is-is-is-is-is-is-odd](https://github.com/cfpwastaken/is-is-is-is-is-is-odd)
 <!--END_SECTION:activity-->
 
 
