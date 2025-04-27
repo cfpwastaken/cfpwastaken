@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#30](https://github.com/cfpwastaken/status/issues/30) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
-2. 🗣 Commented on [#30](https://github.com/cfpwastaken/status/issues/30#issuecomment-2832561012) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
-3. 🔒 Closed issue [#123](https://github.com/picoscratch/upptime/issues/123) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-4. 🗣 Commented on [#123](https://github.com/picoscratch/upptime/issues/123#issuecomment-2832558061) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-5. 🗣 Commented on [#122](https://github.com/picoscratch/upptime/issues/122#issuecomment-2832558043) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+1. ❗ Opened issue [#31](https://github.com/cfpwastaken/status/issues/31) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
+2. ❗ Opened issue [#128](https://github.com/picoscratch/upptime/issues/128) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+3. ❗ Opened issue [#127](https://github.com/picoscratch/upptime/issues/127) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+4. ❗ Opened issue [#126](https://github.com/picoscratch/upptime/issues/126) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+5. ❗ Opened issue [#125](https://github.com/picoscratch/upptime/issues/125) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
 <!--END_SECTION:activity-->
 
 
