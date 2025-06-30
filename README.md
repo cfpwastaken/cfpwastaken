@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#189](https://github.com/picoscratch/upptime/issues/189) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-2. 🗣 Commented on [#189](https://github.com/picoscratch/upptime/issues/189#issuecomment-3017029676) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-3. ❗ Opened issue [#189](https://github.com/picoscratch/upptime/issues/189) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-4. ❗ Opened issue [#188](https://github.com/picoscratch/upptime/issues/188) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
-5. ❗ Opened issue [#51](https://github.com/cfpwastaken/status/issues/51) in [cfpwastaken/status](https://github.com/cfpwastaken/status)
+1. 🗣 Commented on [#5956](https://github.com/ionic-team/capacitor/pull/5956#issuecomment-3019849276) in [ionic-team/capacitor](https://github.com/ionic-team/capacitor)
+2. 🔒 Closed issue [#189](https://github.com/picoscratch/upptime/issues/189) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+3. 🗣 Commented on [#189](https://github.com/picoscratch/upptime/issues/189#issuecomment-3017029676) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+4. ❗ Opened issue [#189](https://github.com/picoscratch/upptime/issues/189) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
+5. ❗ Opened issue [#188](https://github.com/picoscratch/upptime/issues/188) in [picoscratch/upptime](https://github.com/picoscratch/upptime)
 <!--END_SECTION:activity-->
 
 
