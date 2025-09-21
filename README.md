@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/j0code/wplace-api/pull/1) in [j0code/wplace-api](https://github.com/j0code/wplace-api)
-2. 🗣 Commented on [#921](https://github.com/pocket-id/pocket-id/issues/921#issuecomment-3263910778) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
-3. ❗ Opened issue [#921](https://github.com/pocket-id/pocket-id/issues/921) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
-4. 🎉 Merged PR [#2](https://github.com/cfpwastaken/wplace-overlay/pull/2) in [cfpwastaken/wplace-overlay](https://github.com/cfpwastaken/wplace-overlay)
-5. 🎉 Merged PR [#1](https://github.com/cfpwastaken/wplace-overlay/pull/1) in [cfpwastaken/wplace-overlay](https://github.com/cfpwastaken/wplace-overlay)
+1. 🗣 Commented on [#1](https://github.com/j0code/wplace-api/pull/1#issuecomment-3316163732) in [j0code/wplace-api](https://github.com/j0code/wplace-api)
+2. 💪 Opened PR [#1](https://github.com/j0code/wplace-api/pull/1) in [j0code/wplace-api](https://github.com/j0code/wplace-api)
+3. 🗣 Commented on [#921](https://github.com/pocket-id/pocket-id/issues/921#issuecomment-3263910778) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
+4. ❗ Opened issue [#921](https://github.com/pocket-id/pocket-id/issues/921) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
+5. 🎉 Merged PR [#2](https://github.com/cfpwastaken/wplace-overlay/pull/2) in [cfpwastaken/wplace-overlay](https://github.com/cfpwastaken/wplace-overlay)
 <!--END_SECTION:activity-->
 
 
