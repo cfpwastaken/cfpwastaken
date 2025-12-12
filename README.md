@@ -30,8 +30,8 @@
 
     
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/dvt3d/maplibre-three-plugin/issues/8) in [dvt3d/maplibre-three-plugin](https://github.com/dvt3d/maplibre-three-plugin)
-2. 🗣 Commented on [#1](https://github.com/j0code/wplace-api/pull/1#issuecomment-3316163732) in [j0code/wplace-api](https://github.com/j0code/wplace-api)
+1. 🗣 Commented on [#666](https://github.com/rybbit-io/rybbit/issues/666#issuecomment-3647951094) in [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit)
+2. ❗ Opened issue [#8](https://github.com/dvt3d/maplibre-three-plugin/issues/8) in [dvt3d/maplibre-three-plugin](https://github.com/dvt3d/maplibre-three-plugin)
 3. 💪 Opened PR [#1](undefined) in [j0code/wplace-api](https://github.com/j0code/wplace-api)
 4. 🗣 Commented on [#921](https://github.com/pocket-id/pocket-id/issues/921#issuecomment-3263910778) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
 5. ❗ Opened issue [#921](https://github.com/pocket-id/pocket-id/issues/921) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
