@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1173](https://github.com/sysadminsmedia/homebox/issues/1173#issuecomment-3693958532) in [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox)
-2. ❌ Labeled PR [#107](undefined) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-3. 💪 Opened PR [#107](undefined) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-4. ❌ Assigned PR [#107](undefined) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
-5. 🗣 Commented on [#666](https://github.com/rybbit-io/rybbit/issues/666#issuecomment-3647951094) in [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit)
+1. 🗣 Commented on [#2023](https://github.com/gristlabs/grist-core/pull/2023#issuecomment-3694780658) in [gristlabs/grist-core](https://github.com/gristlabs/grist-core)
+2. 💪 Opened PR [#2023](undefined) in [gristlabs/grist-core](https://github.com/gristlabs/grist-core)
+3. 🗣 Commented on [#1173](https://github.com/sysadminsmedia/homebox/issues/1173#issuecomment-3693958532) in [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox)
+4. ❌ Labeled PR [#107](undefined) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
+5. 💪 Opened PR [#107](undefined) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
 <!--END_SECTION:activity-->
 
 
