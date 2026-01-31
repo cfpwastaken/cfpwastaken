@@ -30,7 +30,7 @@
 
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2023](https://github.com/gristlabs/grist-core/pull/2023#issuecomment-3694780658) in [gristlabs/grist-core](https://github.com/gristlabs/grist-core)
+1. ❗ Opened issue [#16](https://github.com/AKVorrat/Netzbremse.de/issues/16) in [AKVorrat/Netzbremse.de](https://github.com/AKVorrat/Netzbremse.de)
 2. 💪 Opened PR [#2023](https://github.com/gristlabs/grist-core/pull/2023) in [gristlabs/grist-core](https://github.com/gristlabs/grist-core)
 3. 🗣 Commented on [#1173](https://github.com/sysadminsmedia/homebox/issues/1173#issuecomment-3693958532) in [sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox)
 4. ℹ️ Labeled PR [#107](https://github.com/creelonestudios/mailverse/pull/107) in [creelonestudios/mailverse](https://github.com/creelonestudios/mailverse)
