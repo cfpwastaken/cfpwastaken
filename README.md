@@ -30,7 +30,7 @@
 
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/cfpwastaken/test/pull/2#issuecomment-3974749581) in [cfpwastaken/test](https://github.com/cfpwastaken/test)
+1. 🗣 Commented on [#2023](https://github.com/gristlabs/grist-core/pull/2023#issuecomment-4178372892) in [gristlabs/grist-core](https://github.com/gristlabs/grist-core)
 2. 🗣 Commented on [#2](https://github.com/cfpwastaken/test/pull/2#issuecomment-3974741820) in [cfpwastaken/test](https://github.com/cfpwastaken/test)
 3. 🗣 Commented on [#2](https://github.com/cfpwastaken/test/pull/2#issuecomment-3974734616) in [cfpwastaken/test](https://github.com/cfpwastaken/test)
 4. 🗣 Commented on [#1](https://github.com/cfpwastaken/test/pull/1#issuecomment-3974728578) in [cfpwastaken/test](https://github.com/cfpwastaken/test)
