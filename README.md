@@ -30,10 +30,10 @@
 
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3377](https://github.com/tauri-apps/plugins-workspace/pull/3377) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
-2. 🗣 Commented on [#2023](https://github.com/gristlabs/grist-core/pull/2023#issuecomment-4178372892) in [gristlabs/grist-core](https://github.com/gristlabs/grist-core)
-3. 🗣 Commented on [#2](https://github.com/cfpwastaken/test/pull/2#issuecomment-3974734616) in [cfpwastaken/test](https://github.com/cfpwastaken/test)
-4. 🗣 Commented on [#1](https://github.com/cfpwastaken/test/pull/1#issuecomment-3974728578) in [cfpwastaken/test](https://github.com/cfpwastaken/test)
+1. ℹ️ Assigned PR [#2](https://github.com/j0code/threadlet/pull/2) in [j0code/threadlet](https://github.com/j0code/threadlet)
+2. 💪 Opened PR [#2](https://github.com/j0code/threadlet/pull/2) in [j0code/threadlet](https://github.com/j0code/threadlet)
+3. 💪 Opened PR [#3377](https://github.com/tauri-apps/plugins-workspace/pull/3377) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
+4. 🗣 Commented on [#2023](https://github.com/gristlabs/grist-core/pull/2023#issuecomment-4178372892) in [gristlabs/grist-core](https://github.com/gristlabs/grist-core)
 5. ℹ️ Reopened PR [#1](https://github.com/cfpwastaken/test/pull/1) in [cfpwastaken/test](https://github.com/cfpwastaken/test)
 <!--END_SECTION:activity-->
 
