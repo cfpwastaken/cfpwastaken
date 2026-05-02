@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/j0code/threadlet/pull/3#issuecomment-4363360176) in [j0code/threadlet](https://github.com/j0code/threadlet)
-2. ℹ️ Assigned PR [#2](https://github.com/j0code/threadlet/pull/2) in [j0code/threadlet](https://github.com/j0code/threadlet)
-3. 💪 Opened PR [#2](https://github.com/j0code/threadlet/pull/2) in [j0code/threadlet](https://github.com/j0code/threadlet)
-4. 💪 Opened PR [#3377](https://github.com/tauri-apps/plugins-workspace/pull/3377) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
-5. 🗣 Commented on [#2023](https://github.com/gristlabs/grist-core/pull/2023#issuecomment-4178372892) in [gristlabs/grist-core](https://github.com/gristlabs/grist-core)
+1. ❗ Opened issue [#4](https://github.com/j0code/threadlet/issues/4) in [j0code/threadlet](https://github.com/j0code/threadlet)
+2. 🗣 Commented on [#3](https://github.com/j0code/threadlet/pull/3#issuecomment-4363360176) in [j0code/threadlet](https://github.com/j0code/threadlet)
+3. ℹ️ Assigned PR [#2](https://github.com/j0code/threadlet/pull/2) in [j0code/threadlet](https://github.com/j0code/threadlet)
+4. 💪 Opened PR [#2](https://github.com/j0code/threadlet/pull/2) in [j0code/threadlet](https://github.com/j0code/threadlet)
+5. 💪 Opened PR [#3377](https://github.com/tauri-apps/plugins-workspace/pull/3377) in [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace)
 <!--END_SECTION:activity-->
 
 
