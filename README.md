@@ -30,9 +30,9 @@
 
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/j0code/threadlet/pull/9#issuecomment-4437702771) in [j0code/threadlet](https://github.com/j0code/threadlet)
-2. 🗣 Commented on [#12](https://github.com/j0code/threadlet/pull/12#issuecomment-4373409586) in [j0code/threadlet](https://github.com/j0code/threadlet)
-3. 🗣 Commented on [#3](https://github.com/j0code/threadlet/pull/3#issuecomment-4363360176) in [j0code/threadlet](https://github.com/j0code/threadlet)
+1. ❌ Closed PR [#16](https://github.com/j0code/threadlet/pull/16) in [j0code/threadlet](https://github.com/j0code/threadlet)
+2. 🗣 Commented on [#17](https://github.com/j0code/threadlet/pull/17#issuecomment-4519995327) in [j0code/threadlet](https://github.com/j0code/threadlet)
+3. 🎉 Merged PR [#2](https://github.com/j0code/threadlet/pull/2) in [j0code/threadlet](https://github.com/j0code/threadlet)
 4. ℹ️ Assigned PR [#2](https://github.com/j0code/threadlet/pull/2) in [j0code/threadlet](https://github.com/j0code/threadlet)
 5. 💪 Opened PR [#2](https://github.com/j0code/threadlet/pull/2) in [j0code/threadlet](https://github.com/j0code/threadlet)
 <!--END_SECTION:activity-->
