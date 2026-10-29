@@ -30,11 +30,11 @@
 
     
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#37](https://github.com/j0code/threadlet/pull/37) in [j0code/threadlet](https://github.com/j0code/threadlet)
-2. 💪 Opened PR [#37](https://github.com/j0code/threadlet/pull/37) in [j0code/threadlet](https://github.com/j0code/threadlet)
-3. ℹ️ Assigned PR [#37](https://github.com/j0code/threadlet/pull/37) in [j0code/threadlet](https://github.com/j0code/threadlet)
-4. ❗ Opened issue [#673](https://github.com/matrix-construct/tuwunel/issues/673) in [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel)
-5. ℹ️ Labeled issue [#673](https://github.com/matrix-construct/tuwunel/issues/673) in [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel)
+1. 🔒 Closed issue [#32](https://github.com/j0code/threadlet/issues/32) in [j0code/threadlet](https://github.com/j0code/threadlet)
+2. 🎉 Merged PR [#36](https://github.com/j0code/threadlet/pull/36) in [j0code/threadlet](https://github.com/j0code/threadlet)
+3. 🗣 Commented on [#36](https://github.com/j0code/threadlet/pull/36#issuecomment-6506637592) in [j0code/threadlet](https://github.com/j0code/threadlet)
+4. 🗣 Commented on [#30](https://github.com/j0code/threadlet/pull/30#issuecomment-6506493919) in [j0code/threadlet](https://github.com/j0code/threadlet)
+5. 🗣 Commented on [#37](https://github.com/j0code/threadlet/pull/37#issuecomment-6506330994) in [j0code/threadlet](https://github.com/j0code/threadlet)
 <!--END_SECTION:activity-->
 
 
